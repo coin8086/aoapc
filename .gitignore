@@ -1,5 +1,10 @@
-*_output_r
 v*
 !v*.cpp
+!v*.rb
 !v*_input
 !v*_output
+ch*
+!ch*.cpp
+!ch*.rb
+!ch*_input
+!ch*_output
